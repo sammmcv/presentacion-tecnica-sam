@@ -1,5 +1,10 @@
 # Presentación técnica – Sam
 
+## Cambio semana 2
+
+username: sammmcv
+color favorito: morado
+
 ## 1. Quién soy
 
 Mi nombre es Samuel, pueden llamarme Sam. Actualmente curso el último semestre de la carrera de **Ingeniería en Sistemas Computacionales** y me encuentro en proceso de titulación, a la vez trabajo como **QA Intern**, donde participo en procesos de aseguramiento de calidad y pruebas de software.
